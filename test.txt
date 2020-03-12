@@ -1,4 +1,3 @@
 ali
 Hasnain
 Bohra
-cout<<"ALI";
